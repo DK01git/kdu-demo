@@ -1,0 +1,11 @@
+.env
+__pycache__/
+aiag/
+tools/
+app_azure copy.py 
+automated_pj.ipynb
+azure_ds.ipynb
+groc copy.ipynb
+helper.py
+groc.ipynb
+groc2.ipynb
