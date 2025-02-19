@@ -2,6 +2,7 @@
 __pycache__/
 aiag/
 tools/
+.gradio/
 app_azure copy.py 
 automated_pj.ipynb
 azure_ds.ipynb
